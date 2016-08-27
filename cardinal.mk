@@ -43,3 +43,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 # PRODUCT_SYSTEM_PROPERTY_BLACKLIST += ro.product.model
 
 TARGET_VENDOR := oneplus
+
+# Cardinal Developers
+PRODUCT_BUILD_PROP_OVERRIDES += \
+        DEVICE_MAINTAINERS="Aditya Garg (PhenomX1998)"
